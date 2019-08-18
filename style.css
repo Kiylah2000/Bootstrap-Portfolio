@@ -6,7 +6,7 @@ footer {
     border-top: 3px solid #4aaaa5;
 }
 
-header {
+header, .navbar-brand {
     font-size: 30px;
     background-color: #4aaaa5;
     color: white;
